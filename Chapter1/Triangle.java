@@ -1,4 +1,4 @@
-public class Pyramid {
+public class Triangle {
     public static void main(String[] args) {
         String[] triangle = {
         "      T      ",
